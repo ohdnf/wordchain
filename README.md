@@ -25,3 +25,4 @@
 - 지렁이 <small>(쿵쿵따♪)</small>
 - 이기심 <small>(쿵쿵따♪)</small>
 - 심청이 <small>(쿵쿵따♪)</small>
+- 이순신 <small>(쿵쿵따♪)</small>
