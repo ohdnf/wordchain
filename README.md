@@ -29,3 +29,4 @@
 - 신발장 <small>(쿵쿵따♪)</small>
 - 장학금 <small>(쿵쿵따♪)</small>
 - 금메달 <small>(쿵쿵따♪)</small>
+- 달리기 <small>(쿵쿵따♪)</small>
