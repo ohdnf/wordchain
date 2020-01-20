@@ -14,3 +14,4 @@
 - 카센타 <small>(쿵쿵따♪)</small>
 - 타이어 <small>(쿵쿵따♪)</small>
 - 어시장 <small>(쿵쿵따♪)</small>
+- 장난감 <small>(쿵쿵따♪)</small>
