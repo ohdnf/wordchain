@@ -4,3 +4,4 @@
 ## 제시어
 - 홍주표 <small>(쿵쿵따♪)</small>
 - 표주박 <small>(쿵쿵따♪)</small>
+- 박치기 <small>(쿵쿵따♪)</small>
