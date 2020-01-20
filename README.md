@@ -16,3 +16,4 @@
 - 어시장 <small>(쿵쿵따♪)</small>
 - 장난감 <small>(쿵쿵따♪)</small>
 - 감나무 <small>(쿵쿵따♪)</small>
+- 무등산 <small>(쿵쿵따♪)</small>
