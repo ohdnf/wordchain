@@ -12,3 +12,4 @@
 - 개나리 <small>(쿵쿵따♪)</small>
 - 리어카 <small>(쿵쿵따♪)</small>
 - 카센타 <small>(쿵쿵따♪)</small>
+- 타이어 <small>(쿵쿵따♪)</small>
