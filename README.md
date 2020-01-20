@@ -31,3 +31,4 @@
 - 금메달 <small>(쿵쿵따♪)</small>
 - 달리기 <small>(쿵쿵따♪)</small>
 - 기준점 <small>(쿵쿵따♪)</small>
+- 점박이 <small>(쿵쿵따♪)</small>
