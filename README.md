@@ -5,3 +5,4 @@
 - 홍주표 <small>(쿵쿵따♪)</small>
 - 표주박 <small>(쿵쿵따♪)</small>
 - 박치기 <small>(쿵쿵따♪)</small>
+- 기러기 <small>(쿵쿵따♪)</small>
