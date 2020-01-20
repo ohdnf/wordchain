@@ -17,3 +17,4 @@
 - 장난감 <small>(쿵쿵따♪)</small>
 - 감나무 <small>(쿵쿵따♪)</small>
 - 무등산 <small>(쿵쿵따♪)</small>
+- 산나물 <small>(쿵쿵따♪)</small>
