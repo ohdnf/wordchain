@@ -18,3 +18,4 @@
 - 감나무 <small>(쿵쿵따♪)</small>
 - 무등산 <small>(쿵쿵따♪)</small>
 - 산나물 <small>(쿵쿵따♪)</small>
+- 물방울 <small>(쿵쿵따♪)</small>
